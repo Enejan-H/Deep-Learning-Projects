@@ -1,0 +1,10 @@
+pdfplumber
+langchain
+langchain_community
+langchain_chroma
+huggingface_hub
+sentence_transformers
+unstructured
+langchain_huggingface
+langchain_openai
+python-dotenv
